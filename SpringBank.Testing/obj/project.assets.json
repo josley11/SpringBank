@@ -4235,25 +4235,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jjoj\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Enigma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\JJOJ\\SpringBank\\SpringBank.Testing\\SpringBank.Testing.csproj",
+      "projectUniqueName": "D:\\GitHub\\SpringBank\\SpringBank.Testing\\SpringBank.Testing.csproj",
       "projectName": "SpringBank.Testing",
-      "projectPath": "D:\\Projects\\JJOJ\\SpringBank\\SpringBank.Testing\\SpringBank.Testing.csproj",
-      "packagesPath": "C:\\Users\\jjoj\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\JJOJ\\SpringBank\\SpringBank.Testing\\obj\\",
+      "projectPath": "D:\\GitHub\\SpringBank\\SpringBank.Testing\\SpringBank.Testing.csproj",
+      "packagesPath": "C:\\Users\\Enigma\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SpringBank\\SpringBank.Testing\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jjoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Enigma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -4266,8 +4261,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\JJOJ\\SpringBank\\SpringBank\\SpringBank.csproj": {
-              "projectPath": "D:\\Projects\\JJOJ\\SpringBank\\SpringBank\\SpringBank.csproj"
+            "D:\\GitHub\\SpringBank\\SpringBank\\SpringBank.csproj": {
+              "projectPath": "D:\\GitHub\\SpringBank\\SpringBank\\SpringBank.csproj"
             }
           }
         }

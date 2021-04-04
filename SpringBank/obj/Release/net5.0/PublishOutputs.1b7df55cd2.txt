@@ -1,0 +1,13 @@
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\SpringBank.exe
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\web.config
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\SpringBank.dll
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\SpringBank.deps.json
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\SpringBank.runtimeconfig.json
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\SpringBank.pdb
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\JJOJ\SpringBank\SpringBank\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
